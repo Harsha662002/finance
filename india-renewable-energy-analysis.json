@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "sector": "Renewable Energy",
+    "country": "India",
+    "exchange": "NSE/BSE",
+    "analysis_date": "2026-03-16",
+    "prices_as_of": "2026-03-12/13",
+    "currency": "INR",
+    "framework": "Comprehensive Stock Screening Framework (19 dimensions)",
+    "analyst_sources": ["JM Financial", "MOFSL", "Axis Securities", "YES Securities", "ICICI Securities"]
+  },
+
+  "sector_snapshot": {
+    "name": "India Renewable Energy",
+    "stage": "Growth",
+    "stage_detail": "Early-to-mid growth phase; high capex, expanding TAM",
+    "metrics": [
+      {
+        "label": "Total RE installed capacity",
+        "value": 254,
+        "unit": "GW",
+        "note": "+23% YoY · Nov 2025"
+      },
+      {
+        "label": "FY26 capacity addition (5 months)",
+        "value": 20.1,
+        "unit": "GW",
+        "note": "+123% vs same period FY25"
+      },
+      {
+        "label": "2030 non-fossil target",
+        "value": 500,
+        "unit": "GW",
+        "note": "~246 GW still to add in 4 years"
+      },
+      {
+        "label": "Sector market size 2030E",
+        "value": 150,
+        "unit": "USD Billion",
+        "note": "India RE market estimate"
+      },
+      {
+        "label": "Solar CAGR (2010–2025)",
+        "value": 24.8,
+        "unit": "%",
+        "note": "Highest among all RE sub-sectors"
+      },
+      {
+        "label": "RE share of installed capacity",
+        "value": 46,
+        "unit": "%",
+        "note": "Oct 2025 · Targeting 65%+ by 2030"
+      },
+      {
+        "label": "Cumulative FDI (Apr 2000–Jun 2025)",
+        "value": 2043410,
+        "unit": "INR Crore",
+        "note": "Non-conventional energy sector"
+      }
+    ],
+    "capacity_breakdown": [
+      { "segment": "Solar", "value_gw": 132.9, "share_pct": 52, "color": "#EF9F27" },
+      { "segment": "Wind", "value_gw": 50.0, "share_pct": 20, "color": "#378ADD" },
+      { "segment": "Large Hydro", "value_gw": 50.3, "share_pct": 20, "color": "#1D9E75" },
+      { "segment": "Biomass / Other", "value_gw": 21.0, "share_pct": 8, "color": "#7F77DD" }
+    ],
+    "tailwinds": [
+      "500 GW target by 2030",
+      "GST cut 12% → 5% on RE equipment",
+      "PLI solar manufacturing scheme",
+      "PM Surya Ghar (rooftop solar)",
+      "Green Hydrogen Mission",
+      "BESS hybrid mandates",
+      "C&I demand 45–50% of grid",
+      "100% FDI allowed",
+      "Falling module costs"
+    ],
+    "risks": [
+      "Grid curtailment 10–30% in RE states",
+      "ISTS transmission delays",
+      "ALCM/ALMM policy uncertainty post Jun-26",
+      "Discom unpaid dues >$9B",
+      "China mineral export controls",
+      "Bidding slowdown (3.4 GW H1 FY26)",
+      "US tariffs on Indian exports"
+    ]
+  },
+
+  "companies": [
+    {
+      "id": "jsw_energy",
+      "name": "JSW Energy",
+      "ticker": "JSWENERGY",
+      "exchange": "NSE",
+      "category": "Integrated Power (Thermal + RE)",
+      "market_cap_cr": 90000,
+
+      "screening_scores": {
+        "business_quality": 8,
+        "financial_strength": 8,
+        "growth_potential": 9,
+        "management_quality": 8,
+        "valuation_attractiveness": 7,
+        "total": 40,
+        "max": 50
+      },
+
+      "financials": {
+        "operational_capacity_gw": 10.9,
+        "fy25_revenue_cr": null,
+        "q3_fy26_revenue_cr": 4081,
+        "q3_fy26_net_profit_cr": 529,
+        "pe_ratio": 33,
+        "pb_ratio": 2.84,
+        "ev_ebitda_fy26e": 25,
+        "ev_ebitda_fy27e": 20,
+        "roe_fy27e_pct": 17,
+        "week_52_high": 579,
+        "week_52_low": 419
+      },
+
+      "price_data": {
+        "current_price": 513,
+        "price_date": "2026-03-12",
+        "analyst_targets": [
+          { "brokerage": "JM Financial", "target": 614, "rating": "Buy" },
+          { "brokerage": "Axis Securities", "target": 705, "rating": "Buy" },
+          { "brokerage": "MOFSL", "target": 697, "rating": "Buy" }
+        ],
+        "consensus_target_low": 614,
+        "consensus_target_high": 705,
+        "upside_to_low_pct": 20,
+        "upside_to_high_pct": 37
+      },
+
+      "entry": {
+        "call": "Buy Now",
+        "buy_zone_low": 460,
+        "buy_zone_high": 530,
+        "in_zone": true,
+        "zone_status": "in_zone",
+        "rationale": "Currently inside zone — accumulate now or add on dips to ₹460–480",
+        "horizon": "3–7 years",
+        "conviction": "High"
+      },
+
+      "thesis": {
+        "core_business": "Integrated power — thermal + RE. 10.9 GW total capacity FY25, rapidly shifting to RE via O2 Power acquisition (4.7 GW by 2027)",
+        "competitive_advantage": "Conservative capital structure vs peers; diversified PPA-backed revenue; BESS + green hydrogen investments; first FDRE PPA with SECI",
+        "growth_drivers": [
+          "O2 Power integration → ~15 GW RE target",
+          "₹18,000 Cr capex FY26",
+          "Green hydrogen JV at Vijayanagar",
+          "30 GW generation target by 2030"
+        ],
+        "risks": [
+          "O2 Power integration execution risk",
+          "Merchant power price exposure",
+          "Grid curtailment impact on PLF"
+        ],
+        "valuation_status": "Fairly Valued"
+      },
+
+      "recommendation": "Strong Buy"
+    },
+
+    {
+      "id": "tata_power",
+      "name": "Tata Power",
+      "ticker": "TATAPOWER",
+      "exchange": "NSE",
+      "category": "Integrated Utility (Solar + Wind + Hydro + Thermal)",
+      "market_cap_cr": 120000,
+
+      "screening_scores": {
+        "business_quality": 8,
+        "financial_strength": 7,
+        "growth_potential": 8,
+        "management_quality": 8,
+        "valuation_attractiveness": 7,
+        "total": 38,
+        "max": 50
+      },
+
+      "financials": {
+        "q3_fy26_net_profit_cr": 772,
+        "pe_ratio": null,
+        "pb_ratio": null,
+        "week_52_high": 417,
+        "week_52_low": 326,
+        "dividend_per_share": 2.25,
+        "dividend_yield_pct": 0.60
+      },
+
+      "price_data": {
+        "current_price": 370,
+        "price_date": "2026-03-13",
+        "analyst_targets": [
+          { "brokerage": "JM Financial", "target": 429, "rating": "Buy" },
+          { "brokerage": "MOFSL", "target": 383, "rating": "Buy" }
+        ],
+        "consensus_target_low": 383,
+        "consensus_target_high": 429,
+        "upside_to_low_pct": 3,
+        "upside_to_high_pct": 16
+      },
+
+      "entry": {
+        "call": "Buy on Dip",
+        "buy_zone_low": 300,
+        "buy_zone_high": 340,
+        "in_zone": false,
+        "zone_status": "near_zone",
+        "rationale": "Near lower analyst target but above ideal entry — wait for 8–10% pullback",
+        "horizon": "5–10 years",
+        "conviction": "High"
+      },
+
+      "thesis": {
+        "core_business": "India's largest integrated power company — solar, wind, hydro, thermal + EV charging + rooftop solar. Target: 15 GW RE by 2030",
+        "competitive_advantage": "Tata brand trust; diversified revenue streams; EPC capability; pumped hydro ₹11,000 Cr investment in Pune; Bhutan hydropower stake",
+        "growth_drivers": [
+          "Rooftop solar + EV charging platform",
+          "C&I solar demand growth",
+          "Distribution utility franchise (Ajmer, Odisha)",
+          "Pumped hydro storage investments"
+        ],
+        "risks": [
+          "Execution pace on 15 GW target",
+          "Regulated tariff caps on distribution",
+          "Q3 FY26 net profit down 25% YoY"
+        ],
+        "valuation_status": "Fair / Slight Premium"
+      },
+
+      "recommendation": "Buy on Correction"
+    },
+
+    {
+      "id": "suzlon",
+      "name": "Suzlon Energy",
+      "ticker": "SUZLON",
+      "exchange": "NSE",
+      "category": "Wind Turbine Manufacturer + Developer",
+      "market_cap_cr": 56000,
+
+      "screening_scores": {
+        "business_quality": 7,
+        "financial_strength": 7,
+        "growth_potential": 9,
+        "management_quality": 7,
+        "valuation_attractiveness": 6,
+        "total": 36,
+        "max": 50
+      },
+
+      "financials": {
+        "fy25_revenue_cr": 10851,
+        "fy25_revenue_growth_yoy_pct": 67,
+        "fy25_deliveries_gw": 1.55,
+        "fy25_deliveries_growth_pct": 118,
+        "ev_ebitda_fy26e": 25.68,
+        "ev_ebitda_fy27e": 19.45,
+        "roe_fy27e_pct": 30,
+        "week_52_high": 74,
+        "week_52_low": 38
+      },
+
+      "price_data": {
+        "current_price": 42.5,
+        "price_date": "2026-03-12",
+        "analyst_targets": [
+          { "brokerage": "JM Financial", "target": 64, "rating": "Buy" },
+          { "brokerage": "Others", "target": 70, "rating": "Buy" }
+        ],
+        "consensus_target_low": 64,
+        "consensus_target_high": 70,
+        "upside_to_low_pct": 51,
+        "upside_to_high_pct": 65
+      },
+
+      "entry": {
+        "call": "Buy in Tranches",
+        "buy_zone_low": 38,
+        "buy_zone_high": 52,
+        "in_zone": true,
+        "zone_status": "in_zone",
+        "rationale": "Currently inside zone — buy in tranches given high volatility. Ideal tranche entry: ₹38–42",
+        "horizon": "3–5 years",
+        "conviction": "Medium-High"
+      },
+
+      "thesis": {
+        "core_business": "Only pure-play Indian wind OEM. Vertically integrated turbine manufacturer + project developer. Wind + solar hybrid capability.",
+        "competitive_advantage": "Only domestic wind OEM at scale; strong order book; 18 GW/yr manufacturing capacity; hybrid park pipeline in Rajasthan",
+        "growth_drivers": [
+          "India wind target 100 GW by 2030 (from ~50 GW)",
+          "Hybrid and FDRE project growth",
+          "New CEO — transformation to full-stack RE solutions",
+          "Operating leverage at current scale"
+        ],
+        "risks": [
+          "Wind policy and ISTS delays",
+          "Order book cyclicality",
+          "China component dependency",
+          "High stock volatility on policy news"
+        ],
+        "valuation_status": "Slightly Rich — Worth It for Growth"
+      },
+
+      "recommendation": "Buy on Dip"
+    },
+
+    {
+      "id": "waaree",
+      "name": "Waaree Energies",
+      "ticker": "WAAREEENER",
+      "exchange": "NSE",
+      "category": "Solar Module Manufacturer + IPP",
+      "market_cap_cr": 75700,
+
+      "screening_scores": {
+        "business_quality": 7,
+        "financial_strength": 7,
+        "growth_potential": 8,
+        "management_quality": 7,
+        "valuation_attractiveness": 6,
+        "total": 35,
+        "max": 50
+      },
+
+      "financials": {
+        "q3_fy26_revenue_growth_yoy_pct": 119,
+        "ev_ebitda_fy26e": 16.34,
+        "ev_ebitda_fy27e": 12.6,
+        "roe_fy27e_pct": 27,
+        "week_52_high": 3865,
+        "week_52_low": 1863,
+        "module_capacity_gw": 23
+      },
+
+      "price_data": {
+        "current_price": 2637,
+        "price_date": "2026-03-10",
+        "analyst_targets": [
+          { "brokerage": "YES Securities", "target": 3500, "rating": "Buy", "note": "implied from ~60% upside estimate" }
+        ],
+        "consensus_target_low": 3200,
+        "consensus_target_high": 3500,
+        "upside_to_low_pct": 21,
+        "upside_to_high_pct": 33
+      },
+
+      "entry": {
+        "call": "Wait / Watch",
+        "buy_zone_low": 2200,
+        "buy_zone_high": 2400,
+        "in_zone": false,
+        "zone_status": "above_zone",
+        "rationale": "Currently above ideal entry — wait for correction or ALCM policy clarity post Jun-26",
+        "horizon": "3–5 years",
+        "conviction": "Medium"
+      },
+
+      "thesis": {
+        "core_business": "India's largest solar module manufacturer. 23 GW module capacity. PLI beneficiary. Domestic content mandates provide structural advantage.",
+        "competitive_advantage": "Scale; PLI beneficiary; ALMM domestic content rules favor local manufacturers; backward integration drive",
+        "growth_drivers": [
+          "ALCM cell extension (Jun-26)",
+          "Domestic RE manufacturing push",
+          "C&I and utility-scale demand",
+          "Export opportunity if US tariffs ease"
+        ],
+        "risks": [
+          "US 50% tariffs on Indian exports",
+          "ALCM policy uncertainty post Jun-26",
+          "Chinese import competition if ALMM weakens",
+          "Module price compression"
+        ],
+        "valuation_status": "Fair — Wait for Dip"
+      },
+
+      "recommendation": "Buy on Correction"
+    },
+
+    {
+      "id": "ntpc_green",
+      "name": "NTPC Green Energy",
+      "ticker": "NTPCGREEN",
+      "exchange": "NSE",
+      "category": "PSU Pure-Play RE Generator",
+      "market_cap_cr": 77000,
+
+      "screening_scores": {
+        "business_quality": 7,
+        "financial_strength": 8,
+        "growth_potential": 8,
+        "management_quality": 6,
+        "valuation_attractiveness": 7,
+        "total": 36,
+        "max": 50
+      },
+
+      "financials": {
+        "operational_capacity_mw": 9293,
+        "ev_ebitda_fy26e": 28.66,
+        "ev_ebitda_fy27e": 10.82,
+        "roe_fy27e_pct": 8.5,
+        "week_52_high": 145,
+        "week_52_low": 85
+      },
+
+      "price_data": {
+        "current_price": 97,
+        "price_date": "2026-03-12",
+        "analyst_targets": [],
+        "consensus_target_low": null,
+        "consensus_target_high": null,
+        "upside_to_low_pct": null,
+        "upside_to_high_pct": null,
+        "note": "No firm 12-month target widely published — PSU, limited analyst coverage"
+      },
+
+      "entry": {
+        "call": "Buy on Pullback",
+        "buy_zone_low": 82,
+        "buy_zone_high": 92,
+        "in_zone": false,
+        "zone_status": "near_zone",
+        "rationale": "Recent rally pushed above ideal entry — good accumulation zone is pullback to ₹85–92",
+        "horizon": "5–7 years",
+        "conviction": "Medium"
+      },
+
+      "thesis": {
+        "core_business": "NTPC's dedicated renewable arm. Utility-scale solar and wind. Backed by sovereign balance sheet. 30 GW RE target by 2030.",
+        "competitive_advantage": "PSU balance sheet; lowest cost of capital in sector; sovereign backing removes refinancing risk; ONGC JV for green hydrogen",
+        "growth_drivers": [
+          "Parent NTPC's ₹1 lakh crore RE investment plan",
+          "Khavda solar cluster expansion",
+          "Green hydrogen and ammonia pilot projects",
+          "Floating solar and offshore wind pipeline"
+        ],
+        "risks": [
+          "PSU execution pace slower than private peers",
+          "Low RoE (8.5% FY27E vs peers at 17–30%)",
+          "Management quality limited by bureaucratic constraints",
+          "Curtailment in Rajasthan and Gujarat"
+        ],
+        "valuation_status": "Reasonable for PSU"
+      },
+
+      "recommendation": "Watchlist — Wait"
+    },
+
+    {
+      "id": "adani_green",
+      "name": "Adani Green Energy",
+      "ticker": "ADANIGREEN",
+      "exchange": "NSE",
+      "category": "Pure-Play RE Generator",
+      "market_cap_cr": 142000,
+
+      "screening_scores": {
+        "business_quality": 8,
+        "financial_strength": 4,
+        "growth_potential": 8,
+        "management_quality": 4,
+        "valuation_attractiveness": 5,
+        "total": 29,
+        "max": 50
+      },
+
+      "financials": {
+        "operational_capacity_mw": 17472,
+        "pe_ratio": 83,
+        "pb_ratio": 8.59,
+        "q3_fy26_net_profit_change_yoy_pct": -98.9,
+        "week_52_high": 1178,
+        "week_52_low": 758,
+        "promoter_stake_pct": 61,
+        "interest_coverage": "Low"
+      },
+
+      "price_data": {
+        "current_price": 858,
+        "price_date": "2026-03-13",
+        "analyst_targets": [
+          { "brokerage": "JM Financial", "target": 1204, "rating": "Buy" }
+        ],
+        "consensus_target_low": 1204,
+        "consensus_target_high": 1204,
+        "upside_to_low_pct": 40,
+        "upside_to_high_pct": 40,
+        "note": "High upside on paper but significant governance and leverage risk"
+      },
+
+      "entry": {
+        "call": "Watchlist Only",
+        "buy_zone_low": 700,
+        "buy_zone_high": 800,
+        "in_zone": false,
+        "zone_status": "above_zone",
+        "rationale": "Only if governance concerns resolve. Small position only — do not overweight",
+        "horizon": "Long-term only",
+        "conviction": "Low"
+      },
+
+      "thesis": {
+        "core_business": "India's largest pure-play RE IPP. 17.5 GW operational capacity. Solar + wind hybrid. Target 50 GW by 2030.",
+        "competitive_advantage": "Scale and execution speed; long-term PPAs providing cash flow visibility; Adani Group financial backing; Khavda gigapark",
+        "growth_drivers": [
+          "50 GW capacity target by 2030",
+          "Khavda — world's largest RE park",
+          "Hybrid and storage project pipeline",
+          "International green bond access"
+        ],
+        "risks": [
+          "Governance and group-level scrutiny (Hindenburg overhang)",
+          "Low interest coverage ratio",
+          "Q3 FY26 net profit down 98.9% YoY",
+          "PE at 83× — 188% premium to peer median",
+          "High leverage relative to peers"
+        ],
+        "valuation_status": "Expensive — PE 83×"
+      },
+
+      "recommendation": "Watchlist"
+    },
+
+    {
+      "id": "nhpc",
+      "name": "NHPC",
+      "ticker": "NHPC",
+      "exchange": "NSE",
+      "category": "PSU Hydroelectric Generator",
+      "market_cap_cr": null,
+
+      "screening_scores": {
+        "business_quality": 6,
+        "financial_strength": 7,
+        "growth_potential": 5,
+        "management_quality": 6,
+        "valuation_attractiveness": 7,
+        "total": 31,
+        "max": 50
+      },
+
+      "price_data": {
+        "current_price": null,
+        "analyst_targets": [
+          { "brokerage": "JM Financial", "target": 84, "rating": "Add" }
+        ]
+      },
+
+      "entry": {
+        "call": "Watchlist",
+        "buy_zone_low": null,
+        "buy_zone_high": null,
+        "in_zone": false,
+        "zone_status": "watchlist",
+        "rationale": "Steady PSU; limited growth vs private peers; better as dividend play",
+        "horizon": "3–5 years",
+        "conviction": "Low-Medium"
+      },
+
+      "recommendation": "Watchlist"
+    },
+
+    {
+      "id": "inox_wind",
+      "name": "Inox Wind",
+      "ticker": "INOXWIND",
+      "exchange": "NSE",
+      "category": "Wind Turbine Manufacturer",
+      "market_cap_cr": null,
+
+      "screening_scores": {
+        "business_quality": 6,
+        "financial_strength": 5,
+        "growth_potential": 7,
+        "management_quality": 6,
+        "valuation_attractiveness": 6,
+        "total": 30,
+        "max": 50
+      },
+
+      "price_data": {
+        "current_price": null,
+        "analyst_targets": [
+          { "brokerage": "JM Financial", "target": 120, "rating": "Add" }
+        ]
+      },
+
+      "entry": {
+        "call": "Speculative",
+        "buy_zone_low": null,
+        "buy_zone_high": null,
+        "in_zone": false,
+        "zone_status": "speculative",
+        "rationale": "Weaker financials vs Suzlon; higher risk; only for aggressive allocation",
+        "horizon": "3–5 years",
+        "conviction": "Low"
+      },
+
+      "recommendation": "Speculative"
+    }
+  ],
+
+  "enums": {
+    "entry_calls": ["Buy Now", "Buy in Tranches", "Buy on Dip", "Buy on Pullback", "Buy on Correction", "Wait / Watch", "Watchlist Only", "Speculative"],
+    "recommendations": ["Strong Buy", "Buy", "Buy on Correction", "Buy on Dip", "Watchlist — Wait", "Watchlist", "Speculative", "Avoid"],
+    "zone_statuses": ["in_zone", "near_zone", "above_zone", "watchlist", "speculative"],
+    "conviction_levels": ["High", "Medium-High", "Medium", "Low-Medium", "Low"],
+    "valuation_statuses": ["Undervalued", "Fairly Valued", "Fair / Slight Premium", "Fair — Wait for Dip", "Slightly Rich — Worth It for Growth", "Reasonable for PSU", "Expensive — PE 83×"]
+  }
+}
